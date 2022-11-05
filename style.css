@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #ffdf80;
+  color: #ffffff;
+}
+
+#kolom{
+  background-color: #ffffff;
+  color:#000000;
+}
+
+#projek{
+  background-color: #ffdf80;
+  color:#ffffff;
+}
+
+#kontak{
+  background-color: #ffffff;
+  color: #000000;
+}
+
+footer{
+  color:#ffffff;
+  background-color: #ffbf00;
+  height: 5rem;
+}
+section{
+  padding-top: 5rem;
+}
